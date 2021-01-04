@@ -1,0 +1,5 @@
+publi class degiskenBastir(){
+public static void main(String[]){
+String metin = " Mahsun Ünverdi " ;
+System.out.println(metin);
+}
